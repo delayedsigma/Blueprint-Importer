@@ -95,4 +95,4 @@ Requires:
 - Windows 10/11 (64-bit)
 
 
-# Made this for Stellar, but i've parted ways so i'm releasing it. It is professtionally vibecoded, credits to 00Jace for giving me the template.
+# Made this for Stellar, but i've parted ways so i'm releasing it. It is professionally vibecoded, credits to 00Jace for giving me the template, Andrew fixed events.
