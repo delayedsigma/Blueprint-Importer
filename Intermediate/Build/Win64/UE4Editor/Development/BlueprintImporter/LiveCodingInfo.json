@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BlueprintImporter.cpp.obj": [
+			"AnimBPGraphBuilder.cpp.obj",
+			"AnimBPTextParser.cpp.obj",
+			"BlueprintGraphBuilder.cpp.obj",
+			"BlueprintImporterModule.cpp.obj",
+			"BlueprintJsonParser.cpp.obj",
+			"LevelBuilder.cpp.obj",
+			"LevelJsonParser.cpp.obj",
+			"NiagaraConverter.cpp.obj",
+			"NiagaraImporter.cpp.obj",
+			"SAnimBPPasteDialog.cpp.obj",
+			"SLevelImportDialog.cpp.obj",
+			"SNiagaraConvertDialog.cpp.obj"
+		]
+	}
+}
